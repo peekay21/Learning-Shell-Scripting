@@ -71,5 +71,21 @@ Logical Operators:
 2. OR || - Atleast one condition should be true. Example: Condition1 || Condition2  
 3. NOT ! - Reverse the condition. Example: !Condition
 
+Loops
+----------
+1. For Loop: 
+    - for i in {1..5}
+    - for (( i=0; i<5; i++ ))
+    - for i in $(seq 1 5)
+    - for i in {1,2,3,4,5}
+    - for i in 1 2 3 4 5
+    - for i in *
+2. While Loop   
+3. Until Loop
+4. Break
+5. Continue
 
-
+# Functions
+* Block of code which perform some task and run when it is called.
+* can reuse many times in out program which lessen our line s of code. 
+* we can pass arguments to function. 
