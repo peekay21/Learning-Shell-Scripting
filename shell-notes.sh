@@ -63,3 +63,13 @@ Arithmetic Operations
 5. Modulus
 6. Increment
 7. Decrement
+
+
+Logical Operators:
+---------------------
+1. AND && - Both conditions should be true. Example: Condition1 && Condition2
+2. OR || - Atleast one condition should be true. Example: Condition1 || Condition2  
+3. NOT ! - Reverse the condition. Example: !Condition
+
+
+
