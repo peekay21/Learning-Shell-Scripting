@@ -89,3 +89,15 @@ Loops
 * Block of code which perform some task and run when it is called.
 * can reuse many times in out program which lessen our line s of code. 
 * we can pass arguments to function. 
+
+#Shifting of arguments
+When we pass multiple arguments, we can shift.
+
+A B C
+shift
+B C 
+
+
+# Useful concepts
+break - to stop the loop
+continue - to skip the current iteration
