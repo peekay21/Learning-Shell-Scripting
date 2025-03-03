@@ -100,4 +100,23 @@ B C
 
 # Useful concepts
 break - to stop the loop
-continue - to skip the current iteration
+continue - to skip the current iteration\
+
+# direction 
+ls > file.txt - redirect the output to file.txt
+ls >> file.txt - append the output to file.txt
+
+
+#script run in the background
+./script.sh &
+jobs - list all the background jobs 
+fg - bring the background job to foreground
+bg - run the background job in the background
+nohup ./script.sh & - run the script in the background even if the terminal is closed
+
+
+Automate the script
+---------------------
+at - run the script at a specific time
+atq - list all the jobs in the queue
+atrm - remove the job from the queue
