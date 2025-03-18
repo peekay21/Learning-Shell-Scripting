@@ -1,0 +1,18 @@
+packages to install
+----------------------------
+1. clinfo
+2. coreutils
+3. dmidecore
+4. fdisk
+5. hardinfo
+6. hdparm
+7. lshw
+8. memtester
+9. net-tools
+10. pciutils
+11. procps
+12. sysstat
+13. upower
+14. util-linux
+15. hwinfo
+------------------------
